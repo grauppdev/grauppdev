@@ -31,15 +31,15 @@
 
 **Contato**
 
-<p text-align="left">
   
-  <a href="https://www.linkedin.com/in/gabriela-raupp-62458b227/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/gabriela-raupp-62458b227/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/gabriela-raupp-62458b227/" /></a>
 
  
-  <a href="https://www.instagram.com/gabiraupphs/" alt="Instagram">
+  <a href="https://www.instagram.com/gabiraupphs/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-AB89E0?style=flat-square&labelColor=AB89E0&logo=instagram&logoColor=white&link=https://www.instagram.com/gabiraupphs/"/></a>
-   <a type="email" alt="email">
+
+   <a type="email" alt="email" target="_blank">
   <img src="https://img.shields.io/badge/-grhs_dev@outlook.com-006bed?style=flat-square&logo=Microsoft_Outlook&logoColor=white&link=mailto:grhs_dev@outlook.com)](mailto:grhs_dev@outlook.com)"/></a>
  
 
